@@ -25,7 +25,7 @@ import Carpenter from '../assets/icons/carpenter.jpg';
 import Festival_light from '../assets/icons/festival_light.jpg';
 import Fan from '../assets/icons/fan.jpg';
 import Furniture from '../assets/icons/furniture_assembly.jpg';
-import Geyser from '../assets/icons/eyser_pic.jpg';
+import Geyser from '../assets/icons/Geyser_pic.jpg';
 import Ikea_furniture from '../assets/icons/Ikea_furniture.jpg';
 import Tile from '../assets/icons/tile_grouting.jpg';
 
