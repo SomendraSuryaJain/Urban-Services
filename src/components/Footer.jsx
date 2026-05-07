@@ -155,7 +155,7 @@ const Footer = () => {
             <Link to="/" className="flex items-center gap-3 flex-shrink-0">
               <div className="relative w-50 h-20 sm:w-50 sm:h-20 overflow-hidden flex-shrink-0 bg-white">
                 <img 
-                  src="public/logo.jpeg" 
+                  src="/logo.jpeg" 
                   alt="Urban Services Logo" 
                   className="w-full h-full object-cover" 
                 />
